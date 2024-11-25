@@ -1,5 +1,6 @@
 ## NAME : GANESH R
 ## REG. NO.:2122222240029
+## DATE : 30.10.2024
 # EX 04 Monitoring-Light-intensity-value-in-Thing-speak-cloud
 # Uploading LDR sensor data in Thing Speak cloud
 
